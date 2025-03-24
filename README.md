@@ -5,9 +5,9 @@
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+| #Elise Østensen Noss # | #S154194# |
+| #Sara Ebbing Hansen# | #S177136# |
+| #Nicolai Ngoc Thien Hoang Tran# | #S176134# |
 
 ***
 
